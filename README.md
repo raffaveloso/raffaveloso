@@ -32,8 +32,6 @@
   
 </a></p>
 
-![Snake animation](https://github.com/raffaveloso/raffaveloso/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
