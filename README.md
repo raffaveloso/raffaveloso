@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit)](https://www.instagram.com/velosorafaela/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafaela.veloso3)
 
-![Veloso's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaveloso&show_icons=true&theme=tokyonight)
+
 
 ##Técnologias que eu uso no meu dia:
 <div style="display: inline_block"><br/>
@@ -23,6 +23,14 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="javascript" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black></div>
 
+<br>
+
+<p align="left">
+<a href="https://github.com/raffaveloso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raffaveloso&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffaveloso&layout=compact&theme=dark")](https://github.com/anuraghazra/github-readme-stats"/>
+  
+</a></p>
 
 
 
